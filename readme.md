@@ -96,7 +96,7 @@ streamlit run src/chatbot.py
 
 ##  Örnek Görüntü
 
-![Chatbot Çalışma Ekranı](/llm_chatbot/chatbot.png)
+![Chatbot Çalışma Ekranı](chatbot.png)
 
 ---
 
